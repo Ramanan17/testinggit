@@ -1,3 +1,2 @@
 Hi my second file.
-<<<<<<< HEAD
-Thank you.
+Thank you. Making second change. branched change 
